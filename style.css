@@ -583,7 +583,7 @@ width: 90%;
                 font-size: 22px;
             }
             .header-content .ctn1{
-                margin-top: 37%;
+                margin-top: 39%;
                 margin-left: 10%;
             }
             .work-content .item-img img {
@@ -595,5 +595,14 @@ width: 90%;
             margin-top: 997px;
             height: 80vh;
         }
+        .footer h2{
+            font-size: 26px;
+            width: 100%;
+            }
+            .footer p{
+                padding: 14px;
+                font-size: 17px;
+               
+                }
         }
 
