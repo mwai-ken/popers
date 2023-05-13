@@ -648,6 +648,18 @@ header{
     margin-top: 42%;
     margin-left: 14%;
 }
+.about .img-section img{
+    width: 100px;
+    height: 100px;
+    box-shadow: 1px 20px 20px white,
+    0px 10px 10px  black;
+  }
+  .about .row{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
             .footer h2{
                 font-size: 26px;
                 width: 100%;
