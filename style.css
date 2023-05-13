@@ -216,6 +216,39 @@ background: rgb(238, 14, 14);
     font-size: 20px;
     color: rgb(7, 7, 7);
 }
+
+
+
+.box-anime{
+    animation: animName 10s linear infinite;
+    width:60px;
+    height:57px;
+    background: linear-gradient(10deg, #0d0d0e 0%, lightblue);
+    margin:20px;
+    border: 2px solid red;
+    
+  }
+  
+  @keyframes animName {
+   0%{
+      transform: rotate(0deg);
+     }
+  100%{
+      transform: rotate(360deg);
+     }
+  }
+
+  .about .img-section img{
+    width: 190px;
+    height: 199px;
+    box-shadow: 1px 20px 20px white,
+    0px 10px 10px  black;
+  }
+  .about .row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
 /* .row{
     display: flex;
     margin-top: 55px;
