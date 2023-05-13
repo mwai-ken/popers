@@ -649,8 +649,8 @@ header{
     margin-left: 14%;
 }
 .about .img-section img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     box-shadow: 1px 20px 20px white,
     0px 10px 10px  black;
   }
